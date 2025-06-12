@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Eren Bal</h1>
 <h3 align="center">I work on cybersecurity and Web3 development</h3>
 
-- 📫 How to reach me **ibal64188@gmail.com**
+- 📫 How to reach me **eren.bal7@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
