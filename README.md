@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/kullaniciAdi/repoAdi/branchAdi/images/83e168a1-e13f-4f64-ae45-705ef0a6d49e.webp" alt="MasterHead">
-
 
 <h1 align="center">Hi 👋, I'm Eren Bal</h1>
 <h3 align="center">I work on cybersecurity and Web3 development</h3>
