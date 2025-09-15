@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Eren Bal</h1>
-<h3 align="center">I work on cybersecurity and Web3 development</h3>
+<h3 align="center">I work on Cybersecurity and Cloud</h3>
 
 - 📫 How to reach me **eren.bal7@hotmail.com**
 
