@@ -28,6 +28,10 @@ Computer Engineering Student focused on Blue Team Operations, SIEM Engineering a
 
 </p>
 
+<p align="center">
+📧 <b>Email:</b> eren.bal7@hotmail.com
+</p>
+
 ---
 
 # 🧠 About Me
